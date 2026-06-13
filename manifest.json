@@ -1,0 +1,32 @@
+{
+  "name": "Score Cekih — Sadewa Corp",
+  "short_name": "Score Cekih",
+  "description": "Aplikasi pencatat skor kartu premium dengan fitur burn, recovery, dan animasi hewan.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d2b18",
+  "theme_color": "#1a472a",
+  "orientation": "portrait",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "images/joker.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/joker.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/joker.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "utilities"],
+  "screenshots": []
+}
